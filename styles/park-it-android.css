@@ -30,3 +30,13 @@ button {
     border: 1px black solid;
     box-shadow: 3px 3px darkGray;
 }
+
+#map {
+    border: 1px black solid;
+    box-shadow: 3px 3px darkGray;
+}
+
+#directions {
+    border: 1px black solid;
+    box-shadow: 3px 3px darkGray;
+}
