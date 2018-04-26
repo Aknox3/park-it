@@ -11,6 +11,11 @@ body{
 button {
     background-color: #2196f3;
     color: white;
+    border: 1px white solid;
+}
+
+#gotIt {
+    border: 1px black solid;
 }
 
 #retrieve {
@@ -21,4 +26,7 @@ button {
     border: 1px solid white;
 }
 
-#
+#instructions {
+    border: 1px black solid;
+    box-shadow: 3px 3px darkGray;
+}
